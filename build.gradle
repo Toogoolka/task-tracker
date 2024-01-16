@@ -7,6 +7,8 @@ plugins {
 group 'ru.coffee-bugulma'
 version '1.0'
 
+sourceCompatibility = JavaVersion.VERSION_11
+
 repositories {
     mavenCentral()
 }
